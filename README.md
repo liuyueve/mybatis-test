@@ -1,2 +1,2 @@
-# mybatis-test
-mybatis test for issue #1960
+# test
+ mybatis #1960 test
